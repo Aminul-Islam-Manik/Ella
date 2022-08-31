@@ -1,0 +1,10 @@
+footer{
+    width: 100%;
+    padding: 70px 0;
+}
+.footer-inner1 h4{
+    text-align: center;
+}
+.footer-item{
+    display: block;
+}
